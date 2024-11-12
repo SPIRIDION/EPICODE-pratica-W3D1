@@ -1,0 +1,14 @@
+_ risposta alla domanda 1:
+
+Un algoritmo consiste in una serie finita di passaggi i quali vanno a risolvere un problema.
+
+_ risposta alla domanda 2:
+
+Una variabile è un contenitore nella quale noi possiamo inserire ciò che vogliamo, in informatica il suo contenuto viene salvato nella 
+memoria del pc, le variabili hanno delle etichette le quali dovrebbero indicare che cosa contengono, esistono vari tipi di variabili
+che si dividono in base al tipo di dato che vi inseriamo.
+
+- risposta alla domanda 3:
+
+undefined e null non sono la stessa cosa: undefined rappresenta il valore di una variabile che è stata dichiarata ma non ancora assegnata, 
+mentre null è un valore che diamo alla variabile se intendiamo "svuotarla" del suo contenuto.
